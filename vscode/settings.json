@@ -1,0 +1,15 @@
+{
+    "svelte.enable-ts-plugin": true,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "python.formatting.blackArgs": [
+        "--line-length",
+        "80"
+    ],
+    "python.autoComplete.extraPaths": [],
+    "html.format.contentUnformatted": "",
+    "python.analysis.extraPaths": [],
+    "python.formatting.provider": "black",
+    "git.terminalAuthentication": false,
+    "editor.formatOnSave": true,
+    "workbench.editor.untitled.hint": "hidden"
+}

@@ -1,0 +1,6 @@
+[user]
+	email = ncdejito@gmail.com
+	name = Niccolo Dejito
+[alias]
+	acp = "!f() { git add . && git commit -m \"$@\" && git push origin HEAD; }; f"
+	gs = "!f() { git remote get-url origin | sed \"s/https:\\/\\//git@/\" | sed \"s/.com\\//.com:/\" | xargs -I{} git remote set-url origin {}; }; f"

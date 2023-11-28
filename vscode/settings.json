@@ -11,5 +11,8 @@
     "python.formatting.provider": "black",
     "git.terminalAuthentication": false,
     "editor.formatOnSave": true,
-    "workbench.editor.untitled.hint": "hidden"
+    "workbench.editor.untitled.hint": "hidden",
+    "window.titleBarStyle": "custom",
+    "window.commandCenter": true,
+    "files.trimTrailingWhitespace": true,
 }

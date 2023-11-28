@@ -3,7 +3,7 @@
     {
         "key": "ctrl+enter",
         "command": "workbench.action.terminal.runSelectedText"
-    }.
+    },
     {
         "key": "alt+left",
         "command": "workbench.action.navigateBack",
